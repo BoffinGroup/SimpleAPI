@@ -19,7 +19,6 @@ C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.csprojAssemblyReference.cache
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.AssemblyInfoInputs.cache
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.AssemblyInfo.cs
