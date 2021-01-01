@@ -34,4 +34,3 @@ C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.dll
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\ref\SimpleAPI.dll
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.pdb
 C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.genruntimeconfig.cache
-C:\CHIJIOKE\Boffins\SimpleAPI\SimpleAPI\obj\Debug\net5.0\SimpleAPI.csprojAssemblyReference.cache
