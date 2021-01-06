@@ -203,6 +203,9 @@
             "rid": "win"
           }
         }
+      },
+      "Terraform.Windows.x64/0.13.2": {
+        "type": "package"
       }
     }
   },
@@ -576,13 +579,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Terraform.Windows.x64/0.13.2": {
+      "sha512": "QPpa/ew4lGs+rdQWwjux7cYu9PoWM5hyTaZJh2g4mgm3s6QWCgLUotyuJjSiEoBKpcrMMcPbI2tOP2DkyAYqtg==",
+      "type": "package",
+      "path": "terraform.windows.x64/0.13.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "terraform.exe",
+        "terraform.windows.x64.0.13.2.nupkg.sha512",
+        "terraform.windows.x64.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.1",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.1",
-      "Swashbuckle.AspNetCore >= 5.6.3"
+      "Swashbuckle.AspNetCore >= 5.6.3",
+      "Terraform.Windows.x64 >= 0.13.2"
     ]
   },
   "packageFolders": {
@@ -648,6 +666,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[5.6.3, )"
+          },
+          "Terraform.Windows.x64": {
+            "target": "Package",
+            "version": "[0.13.2, )"
           }
         },
         "imports": [

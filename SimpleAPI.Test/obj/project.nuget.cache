@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T0hgIrZ09MpwlulguiEXpmj+cCMetQvxU7815XoqkjKPQEkIB830BDSPJwWEWQbZYH9KNtE3S6KPZUYXmgsBJA==",
+  "dgSpecHash": "pjXvPGcb1Nl9W4GsGQa0HRnI4k3VPX4F3T0gHPObwMBaGOHLjZCmBYNizlBEBtido+rWsSJ61NvlNPPNtuCbTQ==",
   "success": true,
   "projectFilePath": "C:\\CHIJIOKE\\Boffins\\SimpleAPI\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
   "expectedPackageFiles": [
@@ -101,6 +101,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\terraform.windows.x64\\0.13.2\\terraform.windows.x64.0.13.2.nupkg.sha512",
     "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
     "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
     "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",

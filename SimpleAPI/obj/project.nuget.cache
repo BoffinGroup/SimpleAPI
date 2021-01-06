@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xqSzJ0poJWKk+RgGQCXaztmnGy6zuolwkYSLPaKZbr7UR+aVxBHWtyF3utLhHiFc5YH5PBFrig41eWA3yDAvXA==",
+  "dgSpecHash": "YbVjlwflQz63fwn7xiSR0crJokSYwOd1nkmWxnSdyth5IYSQ7oPs/PPgtZ35WP8R0VwUjK7ZA0Pi31h1YU3upw==",
   "success": true,
   "projectFilePath": "C:\\CHIJIOKE\\Boffins\\SimpleAPI\\SimpleAPI\\SimpleAPI.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,8 @@
     "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\terraform.windows.x64\\0.13.2\\terraform.windows.x64.0.13.2.nupkg.sha512"
   ],
   "logs": []
 }

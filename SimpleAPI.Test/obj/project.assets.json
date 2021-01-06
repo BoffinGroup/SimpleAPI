@@ -1714,6 +1714,9 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Terraform.Windows.x64/0.13.2": {
+        "type": "package"
+      },
       "xunit/2.4.1": {
         "type": "package",
         "dependencies": {
@@ -1799,7 +1802,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.1",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "5.0.1",
-          "Swashbuckle.AspNetCore": "5.6.3"
+          "Swashbuckle.AspNetCore": "5.6.3",
+          "Terraform.Windows.x64": "0.13.2"
         },
         "compile": {
           "bin/placeholder/SimpleAPI.dll": {}
@@ -5866,6 +5870,20 @@
         "ref/xamarinwatchos10/_._",
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
+      ]
+    },
+    "Terraform.Windows.x64/0.13.2": {
+      "sha512": "QPpa/ew4lGs+rdQWwjux7cYu9PoWM5hyTaZJh2g4mgm3s6QWCgLUotyuJjSiEoBKpcrMMcPbI2tOP2DkyAYqtg==",
+      "type": "package",
+      "path": "terraform.windows.x64/0.13.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "terraform.exe",
+        "terraform.windows.x64.0.13.2.nupkg.sha512",
+        "terraform.windows.x64.nuspec"
       ]
     },
     "xunit/2.4.1": {
